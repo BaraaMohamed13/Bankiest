@@ -16,7 +16,7 @@ The main app page displays the user's balance, a list of their recent transactio
 
 ## Transferring Money Between Accounts
 
-To transfer money between accounts, select the account you would like to transfer money from and the account you would like to transfer money to. Enter the amount you would like to transfer and click the "Transfer" button.
+To transfer money between accounts, select the account you would like to transfer money from and the account you would like to transfer money to. Enter the amount you want to transfer and click the "Transfer" button.
 
 ## Taking a Loan
 
@@ -24,8 +24,11 @@ To take a loan, enter the amount of the loan you would like to take. The loan wi
 
 ## Closing an Account
 
-To close an account, click the "Close Account" button and enter your username and password. The account will be closed.
+To close an account, enter your username and password in the close account section. The account will be closed.
 
 ## Demo
 
 <img src="/Demo.gif"/>
+
+
+<p>Part of the complete javascript course by Jonas Schmedtmann</p>
